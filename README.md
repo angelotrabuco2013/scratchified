@@ -11,4 +11,4 @@ Copyright © 2008-2024 AST. All rights reserved. (see authors below)
 * System Applications and Products in Data Processing (SAP)
 * AST
 ## 📝 Former Names <br/>
-* BYOB
+* BYOB (renamed to Snap<i>!</i>)
